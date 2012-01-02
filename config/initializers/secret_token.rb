@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Crisp::Application.config.secret_token = '74d805b3c9fa60fe9b087195204a2216fc9881a6009a9601c4fd476493572754128cffaed3403825689264d285431b230c3444a805d00b8fb5ad7c6f6e0dab0f'
+Stuffed::Application.config.secret_token = 'bf643a28e48be347582482738be666a703ab9cbcd6a037d62a44ba1a1a7f3a477725c4bc130a74a381f496f61d582d0d06d44a0fec9daa7b67672e5a16ac8b1e'

@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Crisp::Application.load_tasks
+Stuffed::Application.load_tasks
